@@ -1,0 +1,5 @@
+Load Images: Load student images from the dataset folder.
+Encode Faces: Encode faces using face_recognition library.
+Video Capture: Use OpenCV to capture video from the webcam.
+Face Recognition: Recognize faces in the video stream and mark attendance.
+Save Attendance: Save the attendance list to a CSV file.
