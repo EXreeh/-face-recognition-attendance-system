@@ -1,0 +1,13 @@
+Step 1: Install the required libraries
+      pip install opencv-python face_recognition numpy pandas
+
+Step 2: Prepare your dataset
+        You need a dataset of images of students with their names as labels. Organize your images in a folder structure like this:
+            dataset/
+            student_name1/
+            image1.jpg
+            image2.jpg
+            student_name2/
+            image1.jpg
+            image2.jpg
+            
